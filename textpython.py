@@ -1,4 +1,4 @@
 print "hello World!!"
-//hello??
-//helloworld
-//hihihihihihihihi
+#hello??
+#helloworld
+#hihihihihihihihi
